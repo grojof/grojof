@@ -23,3 +23,5 @@ I'm a **Full-Stack Developer** passionate about building **cross-platform applic
 
 ### 📈 GitHub Stats:
 ![grojof's Stats](https://github-readme-stats.vercel.app/api?username=grojof&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![grojof's Streak](https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=vue-dark&hide_border=true)
+![grojof's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grojof&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
