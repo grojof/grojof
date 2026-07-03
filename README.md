@@ -73,14 +73,24 @@ I turn complex requirements into solutions that run in **real production** — o
 
 ---
 
+### 📌 Featured
+
+<a href="https://github.com/grojof/eunomai"><b>🏛️ eunomai</b></a> &nbsp;
+<img src="https://img.shields.io/github/stars/grojof/eunomai?style=flat-square&logo=github&color=714B67&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/grojof/eunomai?style=flat-square&color=3178C6&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/grojof/eunomai?style=flat-square&color=A277FF&labelColor=1a1b27" alt="last commit" />
+
+> A focused, **Claude-only AI workspace** packaged as a Claude Code plugin — SDD/SPDD, living docs, safe controls, and trust-gated skills. One of the projects I've put the most care into.
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=grojof&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=12" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
+<img src="https://raw.githubusercontent.com/grojof/grojof/main/github-metrics.svg" alt="metrics" width="82%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grojof&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=12" alt="top langs" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=grojof&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="activity graph" width="100%" />
 
