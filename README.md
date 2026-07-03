@@ -54,6 +54,10 @@ I turn complex requirements into solutions that run in **real production** — o
 **Systems, Cloud & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -69,16 +73,6 @@ I turn complex requirements into solutions that run in **real production** — o
 
 ---
 
-### 📌 Featured project
-
-<a href="https://github.com/grojof/odoo_instance_manager_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=grojof&repo=odoo_instance_manager_app&theme=tokyonight&hide_border=true&border_radius=12" alt="odoo_instance_manager_app" />
-</a>
-
-> Interactive, root-run CLI to install, maintain and audit multi-instance **Odoo Community** servers on Ubuntu 24.04 — plan → preview → apply safety model, bilingual UI, standard-library only.
-
----
-
 <div align="center">
 
 ### 📊 GitHub Stats
@@ -90,6 +84,14 @@ I turn complex requirements into solutions that run in **real production** — o
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=grojof&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="activity graph" width="100%" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grojof/grojof/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grojof/grojof/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/grojof/grojof/output/github-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
@@ -98,7 +100,7 @@ I turn complex requirements into solutions that run in **real production** — o
 
 ### 🤝 Let's connect
 
-<a href="https://www.linkedin.com/in/grojof">
+<a href="https://www.linkedin.com/in/grojofernandez">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://github.com/grojof">
