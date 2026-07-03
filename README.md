@@ -88,8 +88,6 @@ I turn complex requirements into solutions that run in **real production** — o
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grojof&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=12" alt="top langs" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=grojof&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" width="100%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=grojof&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="activity graph" width="100%" />
 
 </div>
