@@ -12,6 +12,10 @@
 <img src="https://komarev.com/ghpvc/?username=grojof&style=for-the-badge&color=714B67&label=PROFILE+VIEWS" alt="views" />
 <img src="https://img.shields.io/github/followers/grojof?style=for-the-badge&logo=github&color=714B67&labelColor=1a1b27" alt="followers" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/grojof/grojof/main/github-metrics.svg" alt="GitHub metrics — overview, activity & languages" width="82%" />
+
 </div>
 
 ---
@@ -87,8 +91,6 @@ I turn complex requirements into solutions that run in **real production** — o
 <div align="center">
 
 ### 📊 GitHub Stats
-
-<img src="https://raw.githubusercontent.com/grojof/grojof/main/github-metrics.svg" alt="metrics" width="82%" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
