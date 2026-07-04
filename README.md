@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:1a1b27&height=200&section=header&text=Guillermo%20Rojo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Senior%20Odoo%20Engineer%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:1a1b27&height=200&section=header&text=Guillermo%20Rojo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Senior%20Odoo%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/grojof">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A277FF&center=true&vCenter=true&width=650&lines=Odoo+%26+ERP+integrations+in+production;Full-stack+%E2%80%94+backend%2C+frontend+%26+infra;10%2B+years+in+systems+%26+cloud+engineering;Now+building+AI+tooling+for+dev+teams" alt="typing" />
