@@ -16,17 +16,16 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          # Uses METRICS_TOKEN (a minimal read-only PAT) when present — needed for
-          # org memberships / private stats — and falls back to the built-in,
-          # ephemeral GITHUB_TOKEN (public data only) otherwise. No PAT => nothing
-          # long-lived to protect.
+          # Ephemeral GITHUB_TOKEN (public data only). Falls back to METRICS_TOKEN
+          # if a minimal read-only PAT is ever added. No PAT => nothing long-lived.
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories
+          # Kept light on purpose: header + activity stay well within the GraphQL
+          # quota so the languages plugin has budget to render (heavier sections
+          # like repositories/community exhausted it before).
+          base: header, activity
           config_timezone: Europe/Madrid
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
