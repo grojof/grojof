@@ -14,11 +14,12 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: Generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          # Uses METRICS_TOKEN (a classic PAT with repo, read:org, read:user) when
-          # present — needed for org memberships and full private stats — and falls
-          # back to the built-in GITHUB_TOKEN (public data only) otherwise.
+          # Uses METRICS_TOKEN (a minimal read-only PAT) when present — needed for
+          # org memberships / private stats — and falls back to the built-in,
+          # ephemeral GITHUB_TOKEN (public data only) otherwise. No PAT => nothing
+          # long-lived to protect.
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
           template: classic
