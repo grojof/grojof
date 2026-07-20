@@ -12,10 +12,6 @@
 <img src="https://komarev.com/ghpvc/?username=grojof&style=for-the-badge&color=714B67&label=PROFILE+VIEWS" alt="views" />
 <img src="https://img.shields.io/github/followers/grojof?style=for-the-badge&logo=github&color=714B67&labelColor=1a1b27" alt="followers" />
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/grojof/grojof/main/github-metrics.svg" alt="GitHub metrics — overview, activity & languages" width="82%" />
-
 </div>
 
 ---
@@ -91,6 +87,12 @@ I turn complex requirements into solutions that run in **real production** — o
 <div align="center">
 
 ### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=grojof&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=450" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grojof&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&card_width=450" alt="Top languages" />
+
+<br/>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
