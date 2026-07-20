@@ -14,6 +14,10 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: Generate metrics
+        # v3.34 (latest, unmaintained) can crash in its final cosmetic
+        # "Consumed API requests" summary when the startup GET /rate_limit
+        # call fails transiently; the SVG is already committed by then.
+        continue-on-error: true
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           # Ephemeral GITHUB_TOKEN (public data only). Falls back to METRICS_TOKEN
