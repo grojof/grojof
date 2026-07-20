@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/grojof/grojof/main/github-metrics.svg" alt="GitHub metrics — overview, activity & languages" width="82%" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
 </div>
 
@@ -91,8 +91,6 @@ I turn complex requirements into solutions that run in **real production** — o
 <div align="center">
 
 ### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=grojof&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="activity graph" width="100%" />
 
