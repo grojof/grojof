@@ -83,10 +83,10 @@ and applying AI at the systems level across any stack a project needs.
 
 ## Stack
 
-**Core & ERP** · Odoo · Python · PostgreSQL · Microsoft Business Central<br/>
-**Web & apps** · TypeScript · React · Node.js · Flutter · Dart<br/>
-**Systems & DevOps** · Linux · WSL 2 · Windows · PowerShell · Bash · Docker · nginx · Git · GitHub Actions<br/>
-**AI tooling** · Claude · Claude Code · GitHub Copilot
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img alt="Core &amp; ERP: Odoo, Python, PostgreSQL, Business Central. Web &amp; apps: TypeScript, React, Node.js, Flutter, Dart. Systems &amp; DevOps: Linux, WSL 2, Windows, PowerShell, Bash, Docker, nginx, Git, GitHub Actions. AI tooling: Claude, Claude Code, GitHub Copilot." src="assets/stack-light.svg" width="100%" />
+</picture>
 
 ---
 
