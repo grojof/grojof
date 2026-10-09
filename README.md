@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img alt="Guillermo Rojo — Senior Odoo Engineer · Full-Stack Developer" src="assets/header-light.svg" width="100%" />
+  <img alt="Guillermo Rojo — Senior Odoo Engineer · Full-Stack Developer. Spec, build, verify, document." src="assets/header-light.svg" width="100%" />
 </picture>
 
 I turn complex requirements into solutions that run in **real production** — owning the full cycle from
@@ -8,40 +8,26 @@ analysis and architecture to development, integrations and deployment.
 
 ## What I'm building
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<a href="https://github.com/grojof/odoo_dev_workspace_generator">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-dwg-dark.svg" />
+    <img alt="odoo_dwg — Odoo development workspaces and OpenUpgrade migrations from 12.0 to 19.0, on any Linux host." src="assets/card-dwg-light.svg" width="100%" />
+  </picture>
+</a>
 
-**[odoo_dwg](https://github.com/grojof/odoo_dev_workspace_generator)**
+<a href="https://github.com/grojof/odoo_instance_manager_app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-im-dark.svg" />
+    <img alt="odoo_instance_manager — several Odoo sites on one Ubuntu server, from one menu." src="assets/card-im-light.svg" width="100%" />
+  </picture>
+</a>
 
-Odoo development workspaces and OpenUpgrade migrations from 12.0 to 19.0, on any Linux host. Standard
-library only; every change to the host is previewed before it runs.
-
-<sub>Python · migrations · dev tooling</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**[odoo_instance_manager](https://github.com/grojof/odoo_instance_manager_app)**
-
-Several Odoo sites on one Ubuntu server, from one menu: per-version installs, copies neutralised before
-anyone opens them, backups, nginx and fail2ban.
-
-<sub>Python · operations · Ubuntu</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**[eunomai](https://github.com/grojof/eunomai)**
-
-A focused, Claude-only AI workspace packaged as a Claude Code plugin — spec-driven development, living docs,
-safe controls and trust-gated skills.
-
-<sub>TypeScript · Claude Code · AI engineering</sub>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/grojof/eunomai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-eunomai-dark.svg" />
+    <img alt="eunomai — a focused, Claude-only AI workspace as a Claude Code plugin." src="assets/card-eunomai-light.svg" width="100%" />
+  </picture>
+</a>
 
 ## Upstream
 
@@ -53,12 +39,13 @@ where migrations from 12.0 onwards meet real client data. See
 
 ## How I work
 
-- **Plan, preview, confirm, apply.** Nothing touches a server or a database before I've seen exactly what it
-  will do.
-- **Facts from the source.** Versions, limits and tax rules come from the code or the regulation, cited —
-  not from memory.
-- **If it runs, it's tested by running it.** Generated scripts go through ShellCheck, a throwaway PostgreSQL
-  and a real Odoo before they ship.
+- **Spec first.** What a change must do is written and agreed before the first line of code.
+- **Small, previewed, reversible steps.** Plan, preview, confirm, apply: nothing touches a server or a
+  database before I've seen exactly what it will do.
+- **Verified by running it.** Generated scripts go through ShellCheck, a throwaway PostgreSQL and a real Odoo;
+  versions, limits and tax rules are cited from the source, not from memory.
+- **Docs move with the code.** The README, the specs and the changelog change in the same pull request as the
+  code they describe.
 
 ## Activity
 
@@ -85,7 +72,7 @@ and applying AI at the systems level across any stack a project needs.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img alt="Core &amp; ERP: Odoo, Python, PostgreSQL, Business Central. Web &amp; apps: TypeScript, React, Node.js, Flutter, Dart. Systems &amp; DevOps: Linux, WSL 2, Windows, PowerShell, Bash, Docker, nginx, Git, GitHub Actions. AI tooling: Claude, Claude Code, GitHub Copilot." src="assets/stack-light.svg" width="100%" />
+  <img alt="Core &amp; ERP: Odoo, Python, PostgreSQL, Business Central. Web &amp; apps: TypeScript, React, Node.js, Flutter, Dart. Systems &amp; DevOps: Linux, WSL 2, Windows, PowerShell, Bash, Docker, nginx, Git, GitHub Actions. AI tooling: Claude, Claude Code, GitHub Copilot. Also worked with: C# / .NET, Angular, Ionic, Django, Supabase." src="assets/stack-light.svg" width="100%" />
 </picture>
 
 ---

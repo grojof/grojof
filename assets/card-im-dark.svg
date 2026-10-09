@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="odoo_instance_manager — Several Odoo sites on one Ubuntu server, from one menu: installs, copies, backups, nginx, fail2ban.">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.dot{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}@media (prefers-reduced-motion:reduce){.dot{animation:none!important;opacity:1!important}}
+</style>
+<defs><clipPath id="c85a8237f"><rect width="900" height="190" rx="18"/></clipPath></defs>
+<g clip-path="url(#c85a8237f)">
+<rect width="900" height="190" fill="#14111A"/>
+<rect width="900" height="5" fill="#C08AB4"/>
+<rect width="300" height="5" fill="#E8B04B"/>
+<text x="40" y="54" class="sans" font-size="24" font-weight="700" fill="#EDE6EE">odoo_instance_manager</text><text x="40" y="82" class="sans" font-size="15" fill="#A99BAA">Several Odoo sites on one Ubuntu server, from one</text><text x="40" y="104" class="sans" font-size="15" fill="#A99BAA">menu: installs, copies, backups, nginx, fail2ban.</text><rect x="40" y="132" width="59" height="24" rx="12" fill="none" stroke="#2E2634"/><text x="70" y="148" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">Python</text><rect x="107.2" y="132" width="59" height="24" rx="12" fill="none" stroke="#2E2634"/><text x="137" y="148" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">Ubuntu</text><rect x="174.4" y="132" width="88" height="24" rx="12" fill="none" stroke="#2E2634"/><text x="218" y="148" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">operations</text><rect x="560" y="22" width="316" height="146" rx="12" fill="#1D1824"/><rect x="590" y="44" width="256" height="30" rx="8" fill="#14111A" stroke="#2E2634"/><circle cx="610" cy="59" r="5" fill="#7BC59A" class="dot" style="animation-delay:0.0s"/><text x="626" y="64" class="mono" font-size="13" fill="#EDE6EE">erp</text><text x="834" y="64" class="mono" font-size="13" text-anchor="end" fill="#A99BAA">odoo 18.0</text><rect x="590" y="84" width="256" height="30" rx="8" fill="#14111A" stroke="#2E2634"/><circle cx="610" cy="99" r="5" fill="#7BC59A" class="dot" style="animation-delay:0.6s"/><text x="626" y="104" class="mono" font-size="13" fill="#EDE6EE">shop</text><text x="834" y="104" class="mono" font-size="13" text-anchor="end" fill="#A99BAA">odoo 17.0</text><rect x="590" y="124" width="256" height="30" rx="8" fill="#14111A" stroke="#2E2634"/><circle cx="610" cy="139" r="5" fill="#7BC59A" class="dot" style="animation-delay:1.2s"/><text x="626" y="144" class="mono" font-size="13" fill="#EDE6EE">test</text><text x="834" y="144" class="mono" font-size="13" text-anchor="end" fill="#A99BAA">odoo 16.0</text>
+</g>
+</svg>

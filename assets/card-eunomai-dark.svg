@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="eunomai — A focused, Claude-only AI workspace as a Claude Code plugin: specs, living docs, safe controls, skills.">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:grow 1s ease-out both}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@media (prefers-reduced-motion:reduce){.bar{animation:none!important;opacity:1!important}}
+</style>
+<defs><clipPath id="c01543e62"><rect width="900" height="190" rx="18"/></clipPath></defs>
+<g clip-path="url(#c01543e62)">
+<rect width="900" height="190" fill="#14111A"/>
+<rect width="900" height="5" fill="#C08AB4"/>
+<rect width="300" height="5" fill="#E8B04B"/>
+<text x="40" y="54" class="sans" font-size="24" font-weight="700" fill="#EDE6EE">eunomai</text><text x="40" y="82" class="sans" font-size="15" fill="#A99BAA">A focused, Claude-only AI workspace as a Claude Code</text><text x="40" y="104" class="sans" font-size="15" fill="#A99BAA">plugin: specs, living docs, safe controls, skills.</text><rect x="40" y="132" width="88" height="24" rx="12" fill="none" stroke="#2E2634"/><text x="84" y="148" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">TypeScript</text><rect x="136.0" y="132" width="95" height="24" rx="12" fill="none" stroke="#2E2634"/><text x="184" y="148" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">Claude Code</text><rect x="239.2" y="132" width="95" height="24" rx="12" fill="none" stroke="#2E2634"/><text x="287" y="148" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">spec-driven</text><rect x="560" y="22" width="316" height="146" rx="12" fill="#1D1824"/><rect x="592" y="72" width="50" height="70" rx="8" fill="#C08AB4" class="bar" style="animation-delay:0.00s"/><text x="617" y="160" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">specs</text><rect x="658" y="50" width="50" height="92" rx="8" fill="#E8B04B" class="bar" style="animation-delay:0.25s"/><text x="683" y="160" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">docs</text><rect x="724" y="84" width="50" height="58" rx="8" fill="#C08AB4" class="bar" style="animation-delay:0.50s"/><text x="749" y="160" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">controls</text><rect x="790" y="62" width="50" height="80" rx="8" fill="#C08AB4" class="bar" style="animation-delay:0.75s"/><text x="815" y="160" class="sans" font-size="12" text-anchor="middle" fill="#A99BAA">skills</text>
+</g>
+</svg>
