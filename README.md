@@ -47,16 +47,9 @@ safe controls and trust-gated skills.
 
 <a href="https://odoo-community.org"><img src="assets/oca-contributor-badge.png" alt="OCA Contributor" height="64" align="right" /></a>
 
-Fixes merged into the [Odoo Community Association](https://github.com/OCA)'s repositories:
-
-- [OpenUpgrade #6005](https://github.com/OCA/OpenUpgrade/pull/6005) — 14.0: flush statement lines before
-  computing their reconciliation in SQL.
-- [OpenUpgrade #6047](https://github.com/OCA/OpenUpgrade/pull/6047) — 13.0: keep the accounts of Spanish
-  group taxes.
-- [server-ux #1343](https://github.com/OCA/server-ux/pull/1343) — 18.0: return the custom-field search
-  view as text.
-- In review: [OpenUpgrade #6048](https://github.com/OCA/OpenUpgrade/pull/6048) — 13.0: the reversed
-  entry of migrated credit notes.
+I contribute fixes back to the [Odoo Community Association](https://github.com/OCA) — mostly OpenUpgrade,
+where migrations from 12.0 onwards meet real client data. See
+[my merged pull requests](https://github.com/search?q=is%3Apr+author%3Agrojof+org%3AOCA+is%3Amerged&type=pullrequests).
 
 ## How I work
 
