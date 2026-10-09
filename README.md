@@ -60,6 +60,13 @@ where migrations from 12.0 onwards meet real client data. See
 - **If it runs, it's tested by running it.** Generated scripts go through ShellCheck, a throwaway PostgreSQL
   and a real Odoo before they ship.
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-plum-dark.svg" />
+  <img alt="My contributions over the last year, in 3D" src="profile-3d-contrib/profile-plum-light.svg" width="100%" />
+</picture>
+
 ## About me
 
 - **Odoo & ERP** — custom modules for inventory, manufacturing and production, plus bidirectional
