@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Guillermo Rojo — Senior Odoo Engineer · Full-Stack Developer. spec: agreed before the first line of code; build: small steps, previewed, reversible; verify: run against the real thing; document: the docs move with the code">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.kw{font-size:15px;font-weight:700}.txt{font-size:15px;opacity:.45;animation:lit 8.0s infinite}.on{opacity:0;animation:lit 8.0s infinite}@keyframes lit{0%{opacity:.45}4%{opacity:1}24%{opacity:1}28%{opacity:.45}100%{opacity:.45}}.on{animation-name:on}@keyframes on{0%{opacity:0}4%{opacity:1}24%{opacity:1}28%{opacity:0}100%{opacity:0}}@media (prefers-reduced-motion:reduce){.txt,.on{animation:none!important;opacity:1!important}}
+</style>
+<defs><clipPath id="c2a6f8cca"><rect width="900" height="300" rx="18"/></clipPath></defs>
+<g clip-path="url(#c2a6f8cca)">
+<rect width="900" height="300" fill="#14111A"/>
+<rect width="900" height="5" fill="#C08AB4"/>
+<rect width="300" height="5" fill="#E8B04B"/>
+<text x="56" y="76" class="sans" font-size="40" font-weight="700" fill="#EDE6EE">Guillermo Rojo</text><text x="56" y="108" class="sans" font-size="18" fill="#A99BAA">Senior Odoo Engineer · Full-Stack Developer · systems that run in production</text><line x1="56" y1="132" x2="844" y2="132" stroke="#2E2634"/><rect x="40" y="148" width="820" height="128" rx="12" fill="#1D1824"/><text x="60" y="178" class="mono kw" fill="#C08AB4">spec</text><text x="60" y="178" class="mono kw on" fill="#E8B04B" style="animation-delay:0.0s">spec</text><text x="170" y="178" class="mono txt" fill="#EDE6EE" style="animation-delay:0.0s">agreed before the first line of code</text><text x="60" y="206" class="mono kw" fill="#C08AB4">build</text><text x="60" y="206" class="mono kw on" fill="#E8B04B" style="animation-delay:2.0s">build</text><text x="170" y="206" class="mono txt" fill="#EDE6EE" style="animation-delay:2.0s">small steps, previewed, reversible</text><text x="60" y="234" class="mono kw" fill="#C08AB4">verify</text><text x="60" y="234" class="mono kw on" fill="#E8B04B" style="animation-delay:4.0s">verify</text><text x="170" y="234" class="mono txt" fill="#EDE6EE" style="animation-delay:4.0s">run against the real thing</text><text x="430" y="234" class="mono kw on" fill="#7BC59A" style="animation-delay:4.0s">✓</text><text x="60" y="262" class="mono kw" fill="#C08AB4">document</text><text x="60" y="262" class="mono kw on" fill="#E8B04B" style="animation-delay:6.0s">document</text><text x="170" y="262" class="mono txt" fill="#EDE6EE" style="animation-delay:6.0s">the docs move with the code</text>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-plum-dark.svg",
+    "backgroundColor": "#14111A",
+    "foregroundColor": "#EDE6EE",
+    "strongColor": "#E8B04B",
+    "weakColor": "#A99BAA",
+    "radarColor": "#C08AB4",
+    "growingAnimation": true,
+    "contribColors": ["#241D2A", "#4A3247", "#714B67", "#A76E98", "#E8B04B"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-plum-light.svg",
+    "backgroundColor": "#FBF8FA",
+    "foregroundColor": "#241C26",
+    "strongColor": "#C98A12",
+    "weakColor": "#6B5D6A",
+    "radarColor": "#714B67",
+    "growingAnimation": true,
+    "contribColors": ["#EEE7ED", "#D9C3D4", "#B48AA8", "#714B67", "#C98A12"]
+  }
+]

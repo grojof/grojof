@@ -1,124 +1,81 @@
-<!-- Banner -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:1a1b27&height=200&section=header&text=Guillermo%20Rojo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Senior%20Odoo%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
-
-<a href="https://github.com/grojof">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A277FF&center=true&vCenter=true&width=650&lines=Odoo+%26+ERP+integrations+in+production;Full-stack+%E2%80%94+backend%2C+frontend+%26+infra;10%2B+years+in+systems+%26+cloud+engineering;Now+building+AI+tooling+for+dev+teams" alt="typing" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=grojof&style=for-the-badge&color=714B67&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/grojof?style=for-the-badge&logo=github&color=714B67&labelColor=1a1b27" alt="followers" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=grojof&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
-
-</div>
-
----
-
-### 🧑‍💻 About me
-
-I turn complex requirements into solutions that run in **real production** — owning the full cycle from analysis and architecture to development, integrations and deployment.
-
-- 🏭 **Odoo & ERP** — custom modules for inventory, manufacturing and production, plus bidirectional integrations with **Microsoft Business Central** and other systems.
-- 🧱 **Full-stack & Systems** — autonomous across backend, frontend and infrastructure, on a decade of sysadmin and cloud experience.
-- 🤖 **AI engineering** — plugins, skills and agentic tooling for **Claude** and **GitHub Enterprise**, scaled across engineering teams.
-- ⚡ **Fast learner** — with a solid engineering foundation (and AI in the loop), I reach productive levels in new stacks quickly.
-
-### 🚀 Currently focused on
-
-- Designing plugins & skills for **Claude** and **GitHub Enterprise** used by the company's dev teams.
-- Applying **AI at the systems level** and delivering across any stack a project needs.
-
----
-
-### 🛠️ Tech stack
-
-**Core & ERP**
-<p>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Business%20Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-**Web & Apps**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-**Systems, Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-**AI tooling**
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b27?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-</p>
-
----
-
-### 📌 Featured
-
-<a href="https://github.com/grojof/eunomai"><b>🏛️ eunomai</b></a> &nbsp;
-<img src="https://img.shields.io/github/stars/grojof/eunomai?style=flat-square&logo=github&color=714B67&labelColor=1a1b27" alt="stars" />
-<img src="https://img.shields.io/github/languages/top/grojof/eunomai?style=flat-square&color=3178C6&labelColor=1a1b27" alt="top language" />
-<img src="https://img.shields.io/github/last-commit/grojof/eunomai?style=flat-square&color=A277FF&labelColor=1a1b27" alt="last commit" />
-
-> A focused, **Claude-only AI workspace** packaged as a Claude Code plugin — SDD/SPDD, living docs, safe controls, and trust-gated skills. One of the projects I've put the most care into.
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grojof&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="activity graph" width="100%" />
-
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grojof/grojof/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grojof/grojof/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/grojof/grojof/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img alt="Guillermo Rojo — Senior Odoo Engineer · Full-Stack Developer. Spec, build, verify, document." src="assets/header-light.svg" width="100%" />
 </picture>
 
-</div>
+I turn complex requirements into solutions that run in **real production** — owning the full cycle from
+analysis and architecture to development, integrations and deployment.
+
+## What I'm building
+
+<a href="https://github.com/grojof/odoo_dev_workspace_generator">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-dwg-dark.svg" />
+    <img alt="odoo_dwg — Odoo development workspaces and OpenUpgrade migrations from 12.0 to 19.0, on any Linux host." src="assets/card-dwg-light.svg" width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/grojof/odoo_instance_manager_app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-im-dark.svg" />
+    <img alt="odoo_instance_manager — several Odoo sites on one Ubuntu server, from one menu." src="assets/card-im-light.svg" width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/grojof/eunomai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-eunomai-dark.svg" />
+    <img alt="eunomai — a focused, Claude-only AI workspace as a Claude Code plugin." src="assets/card-eunomai-light.svg" width="100%" />
+  </picture>
+</a>
+
+## Upstream
+
+<a href="https://odoo-community.org"><img src="assets/oca-contributor-badge.png" alt="OCA Contributor" height="64" align="right" /></a>
+
+I contribute fixes back to the [Odoo Community Association](https://github.com/OCA) — mostly OpenUpgrade,
+where migrations from 12.0 onwards meet real client data. See
+[my merged pull requests](https://github.com/search?q=is%3Apr+author%3Agrojof+org%3AOCA+is%3Amerged&type=pullrequests).
+
+## How I work
+
+- **Spec first.** What a change must do is written and agreed before the first line of code.
+- **Small, previewed, reversible steps.** Plan, preview, confirm, apply: nothing touches a server or a
+  database before I've seen exactly what it will do.
+- **Verified by running it.** Generated scripts go through ShellCheck, a throwaway PostgreSQL and a real Odoo;
+  versions, limits and tax rules are cited from the source, not from memory.
+- **Docs move with the code.** The README, the specs and the changelog change in the same pull request as the
+  code they describe.
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-plum-dark.svg" />
+  <img alt="My contributions over the last year, in 3D" src="profile-3d-contrib/profile-plum-light.svg" width="100%" />
+</picture>
+
+## About me
+
+- **Odoo & ERP** — custom modules for inventory, manufacturing and production, plus bidirectional
+  integrations with **Microsoft Business Central** and other systems.
+- **Full-stack & systems** — autonomous across backend, frontend and infrastructure, on a decade of sysadmin
+  and cloud experience.
+- **AI engineering** — plugins, skills and agentic tooling for **Claude** and **GitHub Enterprise**, scaled
+  across engineering teams.
+- **Fast learner** — with a solid engineering foundation (and AI in the loop), I reach productive levels in
+  new stacks quickly.
+
+**Currently:** designing plugins and skills for Claude and GitHub Enterprise used by the company's dev teams,
+and applying AI at the systems level across any stack a project needs.
+
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img alt="Core &amp; ERP: Odoo, Python, PostgreSQL, Business Central. Web &amp; apps: TypeScript, React, Node.js, Flutter, Dart. Systems &amp; DevOps: Linux, WSL 2, Windows, PowerShell, Bash, Docker, nginx, Git, GitHub Actions. AI tooling: Claude, Claude Code, GitHub Copilot. Also worked with: C# / .NET, Angular, Ionic, Django, Supabase." src="assets/stack-light.svg" width="100%" />
+</picture>
 
 ---
 
-<div align="center">
-
-### 🤝 Let's connect
-
-<a href="https://www.linkedin.com/in/grojofernandez">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://github.com/grojof">
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-
-<sub>💬 Always up for complex technical challenges, ownership, and solutions with real business impact.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:714B67&height=100&section=footer" width="100%" alt="footer" />
-
-</div>
+<sub>Always up for complex technical challenges, ownership, and solutions with real business impact —
+[LinkedIn](https://www.linkedin.com/in/grojofernandez).</sub>
