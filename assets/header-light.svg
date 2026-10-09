@@ -21,6 +21,6 @@
 <g class="row" style="animation-delay:1.2s"><text x="56" y="206" class="mono" fill="#714B67" font-weight="700">preview </text><text x="160" y="206" class="mono" fill="#241C26">every command, before anything runs</text></g>
 <g class="row" style="animation-delay:1.9s"><text x="56" y="236" class="mono" fill="#714B67" font-weight="700">confirm </text><text x="160" y="236" class="mono" fill="#241C26">typed, for whatever cannot be undone</text></g>
 <g class="row" style="animation-delay:2.6s"><text x="56" y="266" class="mono" fill="#714B67" font-weight="700">apply   </text><text x="160" y="266" class="mono" fill="#241C26">then checked against the real thing<tspan fill="#2F8A57" font-weight="700">  ✓</tspan></text></g>
-<rect class="cursor" x="452" y="263" width="9" height="17" fill="#C98A12"/>
+<rect class="cursor" x="514" y="263" width="9" height="17" fill="#C98A12"/>
 </g>
 </svg>
