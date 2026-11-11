@@ -182,6 +182,45 @@ def card_eunomai(t: dict) -> str:
                 ["TypeScript", "Claude Code", "spec-driven"], "".join(bars), style, t)
 
 
+def card_eunomai_business(t: dict) -> str:
+    steps = ["ask", "screens", "tests", "review"]
+    pills = []
+    for i, name in enumerate(steps):
+        x = 584 + i * 70
+        color = t["amber"] if name == "review" else t["plum"]
+        pills.append(f'<g class="step" style="animation-delay:{0.4 + i * 0.6:.1f}s">'
+                     f'<rect x="{x}" y="66" width="62" height="34" rx="9" fill="{color}"/>'
+                     f'<text x="{x + 31}" y="88" class="sans" font-size="12" font-weight="600" '
+                     f'text-anchor="middle" fill="{t["bg"]}">{name}</text></g>')
+    art = ("".join(pills)
+           + f'<text x="718" y="134" class="mono done" font-size="13" text-anchor="middle" fill="{t["ok"]}">'
+           "pull request for IT  ✓</text>")
+    style = (".step{opacity:.18;animation:step 9s infinite}"
+             "@keyframes step{0%{opacity:.18}4%{opacity:1}70%{opacity:1}80%{opacity:.18}100%{opacity:.18}}"
+             ".done{opacity:0;animation:done 9s infinite;animation-delay:3.2s}"
+             "@keyframes done{0%{opacity:0}4%{opacity:1}40%{opacity:1}48%{opacity:0}100%{opacity:0}}"
+             + REDUCED.format(sel=".step,.done"))
+    return card("eunomai-business", ["Business people build internal apps with Claude", "Cowork; IT reviews and ships them as pull requests."],
+                ["Python", "MCP", "Claude Cowork"], art, style, t)
+
+
+def card_app_base(t: dict) -> str:
+    columns = [("to do", 3), ("doing", 2), ("done", 4)]
+    parts = []
+    for i, (name, cards) in enumerate(columns):
+        x = 584 + i * 98
+        parts.append(f'<text x="{x}" y="46" class="sans" font-size="12" fill="{t["muted"]}">{name}</text>')
+        for j in range(cards):
+            color = t["amber"] if (i, j) == (1, 0) else t["plum"]
+            parts.append(f'<rect x="{x}" y="{56 + j * 26}" width="86" height="20" rx="6" fill="{color}" '
+                         f'class="card" style="animation-delay:{(i * 4 + j) * 0.15:.2f}s"/>')
+    style = (".card{opacity:0;animation:show .6s ease-out forwards}"
+             "@keyframes show{from{opacity:0;transform:translateY(4px)}to{opacity:.9;transform:none}}"
+             + REDUCED.format(sel=".card"))
+    return card("eunomai-business-app-base", ["A base for internal web apps: lists, boards,", "calendars and charts, accessible, in two themes."],
+                ["FastAPI", "htmx", "daisyUI"], "".join(parts), style, t)
+
+
 # --- stack --------------------------------------------------------------------------
 
 STACK = [
@@ -287,6 +326,8 @@ def main() -> None:
         write(f"card-dwg-{theme}.svg", card_dwg(t))
         write(f"card-im-{theme}.svg", card_im(t))
         write(f"card-eunomai-{theme}.svg", card_eunomai(t))
+        write(f"card-eunomai-business-{theme}.svg", card_eunomai_business(t))
+        write(f"card-app-base-{theme}.svg", card_app_base(t))
         write(f"stack-{theme}.svg", stack(t))
     print("rendered", ", ".join(sorted(p.name for p in ASSETS.glob("*.svg"))))
 

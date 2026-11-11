@@ -29,6 +29,20 @@ analysis and architecture to development, integrations and deployment.
   </picture>
 </a>
 
+<a href="https://github.com/grojof/eunomai-business">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-eunomai-business-dark.svg" />
+    <img alt="eunomai-business — business people build internal apps with Claude Cowork; IT reviews and ships them as pull requests." src="assets/card-eunomai-business-light.svg" width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/grojof/eunomai-business-app-base">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-app-base-dark.svg" />
+    <img alt="eunomai-business-app-base — a base for internal web apps: lists, boards, calendars and charts, accessible, in two themes." src="assets/card-app-base-light.svg" width="100%" />
+  </picture>
+</a>
+
 ## Upstream
 
 <a href="https://odoo-community.org"><img src="assets/oca-contributor-badge.png" alt="OCA Contributor" height="64" align="right" /></a>
@@ -66,7 +80,9 @@ where migrations from 12.0 onwards meet real client data. See
   new stacks quickly.
 
 **Currently:** designing plugins and skills for Claude and GitHub Enterprise used by the company's dev teams,
-and applying AI at the systems level across any stack a project needs.
+building [eunomai-business](https://github.com/grojof/eunomai-business), so business people make their own
+internal applications with Claude while IT keeps the review, and applying AI at the systems level across any stack a
+project needs.
 
 ## Stack
 
